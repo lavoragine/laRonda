@@ -1,4 +1,4 @@
-# readme
+# readMe
 
 tuneos post pandoc:
 
@@ -33,7 +33,7 @@ página de bio author
 
 [ ] archivo md/icml para titulo
 
-[ ] varchivo md/icml para copyright info
+[ ] archivo md/icml para copyright info
 
 [ ] archivo md /icml vinculado con la portada
 
