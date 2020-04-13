@@ -15,27 +15,27 @@ página de bio author
 
 # La rondaToDo
 
-[] thumbnails
+[ ] thumbnails
 
-[] crear entorno GIT
+[ ] crear entorno GIT
 
-[] Issue en algún sitio (sobre fenced divs en ICML)
+[ ] Issue en algún sitio (sobre fenced divs en ICML)
 
-[] versiones? (podiprint, tamaños, etc…)
+[ ] versiones? (podiprint, tamaños, etc…)
 
-[] Hacer camisas para libros en amazon???
+[ ] Hacer camisas para libros en amazon???
 
-[] Epub version: mirar la opción de conversión para limitar los niveles de TOC
+[ ] Epub version: mirar la opción de conversión para limitar los niveles de TOC
 
-[] Mirar todos los campos de metadata que son susceptibles de ser añadidos
+[ ] Mirar todos los campos de metadata que son susceptibles de ser añadidos
 
-[] almacenar aparte un archivo de metadata (marc:ralators? XML? what?)
+[ ] almacenar aparte un archivo de metadata (marc:ralators? XML? what?)
 
-[] archivo md/icml para titulo
+[ ] archivo md/icml para titulo
 
-[] varchivo md/icml para copyright info
+[ ] varchivo md/icml para copyright info
 
-[] archivo md /icml vinculado con la portada
+[ ] archivo md /icml vinculado con la portada
 
 
 
