@@ -21,9 +21,12 @@
 *.zip
 
 # Files from licenced software
+##############################
 
 *.indd
 *.scrivx
+*.ttf
+*.otf
 
 # Logs and databases #
 ######################
